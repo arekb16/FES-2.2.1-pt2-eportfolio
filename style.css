@@ -296,3 +296,13 @@ transition: transform 450ms, opacity 300ms ease;
 .project:last-child {
     margin-bottom: 40px;
 }
+
+/* FOOTER */
+
+footer {
+    background-color: #0000ff20;
+}
+
+.footer__row {
+    padding: 8% 0;
+}
